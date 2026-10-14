@@ -136,7 +136,7 @@ pip install -r requirements.txt
 ### 4. Run the script
 
 ```bash
-python customer_behaviour_analysis.py
+python main.py
 ```
 
 The script generates plots in the `plots/` folder and CSV results in the `outputs/` folder.
